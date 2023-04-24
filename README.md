@@ -1,7 +1,8 @@
 # Fidelisaboke 
 
 ### About Me:
-Hello there! 👋: I'm a Computer Scientist interested in writing code!
+Hello there!👋
+I'm a Computer Scientist interested in writing code!💻
 I'm always ready to learn everyday!
 
 ---
