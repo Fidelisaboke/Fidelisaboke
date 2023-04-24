@@ -2,7 +2,9 @@
 
 ### About Me:
 Hello there!👋
+<br>
 I'm a Computer Scientist interested in writing code!💻
+<BR>
 I'm always ready to learn everyday!
 
 ---
