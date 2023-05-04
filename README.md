@@ -28,4 +28,4 @@ I'm always ready to learn everyday!
 
 ---
   
-![snake animation](https://github.com/Fidelisaboke/Fidelisaboke/blob/output/github-contribution-grid-snake2.svg)
+![Snake Animation](https://github.com/Fidelisaboke/Fidelisaboke/blob/output/github-contribution-grid-snake2.svg)
