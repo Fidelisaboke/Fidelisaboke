@@ -4,7 +4,7 @@
 Hello there!👋
 <br>
 I'm a Computer Scientist interested in writing code!💻
-<BR>
+<br>
 I'm always ready to learn everyday!
 
 ---
