@@ -27,5 +27,6 @@ I'm always ready to learn everyday!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fidelisaboke&border_radius=20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-  
+
+###Github Contributions:
 ![Snake animation](https://github.com/Fidelisaboke/Fidelisaboke/blob/output/github-contribution-grid-snake2.svg)
