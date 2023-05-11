@@ -29,3 +29,4 @@ I'm always ready to learn everyday!
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Fidelisaboke&border_radius=20)](https://git.io/streak-stats)
   [![Fidel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fidelisaboke)](https://github.com/anuraghazra/github-readme-stats)
   ![Snake animation](https://github.com/Fidelisaboke/Fidelisaboke/blob/output/github-contribution-grid-snake.svg)
+</div>
