@@ -3,7 +3,7 @@
 ### About Me:
 Hello there!👋
 <br>
-I'm a Computer Scientist interested in writing code!💻
+I'm a Computer Scientist that loves writing code!💻
 <br>
 I'm always ready to learn everyday! 🌟
 
