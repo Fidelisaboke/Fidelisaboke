@@ -6,6 +6,7 @@ Hello there!👋
 I'm a Computer Scientist that loves writing code!💻
 <br>
 I'm always ready to learn everyday! 🌟
+<br>
 <b> Currently learning: </b>Laravel
 
 ---
