@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Laravel
 - 🤔 I’m looking for help with learning Python for Data Science
 - 📫 How to reach me: fidelisaboke@gmail.com
-- ⚡ Fun fact: Python's name has nothing to do with pythons.
+- ⚡ Fun fact: Python's name has *nothing* to do with pythons
 
 ### Languages and Tools
 
