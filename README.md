@@ -6,7 +6,7 @@
 <!-- 💬 Ask me about ... -->
 <!-- 👯 I’m looking to collaborate on ... -->
 - 🌱 I’m currently learning Laravel
-- 🤔 I’m looking for help with learning Python for Data Science
+- 🤔 I’m looking for help with learning Python and Kotlin Programming
 - 📫 How to reach me: fidelisaboke@gmail.com
 - ⚡ Fun fact: Python's name has *nothing* to do with pythons
 
