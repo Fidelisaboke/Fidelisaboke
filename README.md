@@ -33,4 +33,4 @@ I'm a Computer Science student interested in Fullstack development.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fidelisaboke&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## DevCard
-<a href="https://app.daily.dev/fidelisaboke"><img src="https://api.daily.dev/devcards/v2/ugUV9XPnloDl3ynNOM4QY.png?r=ps8" width="356" alt="Fidel Isaboke's Dev Card"/></a>
+<a href="https://app.daily.dev/fidelisaboke"><img src="./devcard.png" width="356" alt="Fidel Isaboke's Dev Card"/></a>
