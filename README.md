@@ -1,7 +1,7 @@
 # Hello, hello! 👋
 
 ## About Me:
-I'm a passionate Computer Science student interested in Fullstack development.
+I'm a Computer Science student interested in Fullstack development.
 
 <!-- 🔭 I’m currently working on ... -->
 <!-- 💬 Ask me about ... -->
