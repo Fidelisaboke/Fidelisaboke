@@ -6,13 +6,12 @@ I'm a passionate Computer Science student interested in learning Fullstack devel
 <!-- 🔭 I’m currently working on ... -->
 <!-- 💬 Ask me about ... -->
 <!-- 👯 I’m looking to collaborate on ... -->
-- 🌱 I’m currently learning Python and Kotlin Programming
 <!-- 🤔 I’m looking for help with learning Python for Data Science -->
+- 🌱 I’m currently learning Python and Kotlin Programming
 - 📫 How to reach me: fidelisaboke@gmail.com
 - ⚡ Fun fact: Python's name has *nothing* to do with pythons
 
 ### Languages and Tools
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
