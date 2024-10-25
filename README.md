@@ -28,7 +28,7 @@ I'm a Computer Science student interested in Fullstack development.
 
 </div>
 
-## My Github Stats
+## My GitHub Stats
 [![Fidel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fidelisaboke)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fidelisaboke&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
