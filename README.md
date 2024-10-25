@@ -11,7 +11,7 @@ I'm a passionate Computer Science student interested in learning Fullstack devel
 - 📫 How to reach me: fidelisaboke@gmail.com
 - ⚡ Fun fact: Python's name has *nothing* to do with pythons
 
-### Languages and Tools
+## Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -28,9 +28,9 @@ I'm a passionate Computer Science student interested in learning Fullstack devel
 
 </div>
 
-### My Github Stats
+## My Github Stats
 [![Fidel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fidelisaboke)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fidelisaboke&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-### DevCard
+## DevCard
 <a href="https://app.daily.dev/fidelisaboke"><img src="https://api.daily.dev/devcards/v2/ugUV9XPnloDl3ynNOM4QY.png?r=ps8" width="356" alt="Fidel Isaboke's Dev Card"/></a>
