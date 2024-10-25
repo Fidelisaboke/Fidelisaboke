@@ -1,12 +1,13 @@
 # Hello, hello! 👋
 
-## I'm a Computer Scientist!
+## About Me:
+I'm a passionate Computer Science student interested in learning Fullstack development.
 
 <!-- 🔭 I’m currently working on ... -->
 <!-- 💬 Ask me about ... -->
 <!-- 👯 I’m looking to collaborate on ... -->
 - 🌱 I’m currently learning Python and Kotlin Programming
-- 🤔 I’m looking for help with learning Python for Data Science
+<!-- 🤔 I’m looking for help with learning Python for Data Science -->
 - 📫 How to reach me: fidelisaboke@gmail.com
 - ⚡ Fun fact: Python's name has *nothing* to do with pythons
 
@@ -29,6 +30,8 @@
 </div>
 
 ### My Github Stats
-
 [![Fidel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fidelisaboke)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fidelisaboke&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+### DevCard
+<a href="https://app.daily.dev/fidelisaboke"><img src="https://api.daily.dev/devcards/v2/ugUV9XPnloDl3ynNOM4QY.png?r=ps8" width="356" alt="Fidel Isaboke's Dev Card"/></a>
