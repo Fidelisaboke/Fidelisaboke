@@ -72,8 +72,8 @@ I'm a Computer Science student interested in Full-stack development
 </p>
 
 ## My GitHub Stats
-[![Fidel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fidelisaboke)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fidelisaboke&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Fidel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fidelisaboke&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fidelisaboke&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <b>Top Repositories</b>
 <div width="100%" align="center">
