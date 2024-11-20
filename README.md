@@ -72,11 +72,15 @@ I'm a Computer Science student interested in Full-stack development.
 </p>
 
 ## My GitHub Stats
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img alt="Fidel's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Fidelisaboke&theme=dracula" />
-</a>
-[![Fidel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fidelisaboke&theme=dracula)]([https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=Fidelisaboke&theme=dracula))
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fidelisaboke&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  <a href="https://github.com/anuraghazra/github-readme-stats" width="48%">
+    <img alt="Fidel's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Fidelisaboke&theme=dracula" />
+  </a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fidelisaboke&layout=compact&theme=dracula" />
+  </a>
+</p>
 
 <b>Top Repositories</b>
 <div width="100%" align="center">
