@@ -72,10 +72,9 @@ I'm a Computer Science student interested in Full-stack development.
 </p>
 
 ## My GitHub Stats
-<div width="100%" align="center">
-  [![Fidel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fidelisaboke&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fidelisaboke&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+<img alt="Fidel's GitHub stats" src=
+[![Fidel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fidelisaboke&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fidelisaboke&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <b>Top Repositories</b>
 <div width="100%" align="center">
