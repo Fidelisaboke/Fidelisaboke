@@ -72,7 +72,7 @@ I'm a Computer Science student interested in Full-stack development.
 </p>
 
 ## My GitHub Stats
-<img alt="Fidel's GitHub stats" src=
+<img alt="Fidel's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Fidelisaboke&theme=dracula" />
 [![Fidel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fidelisaboke&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fidelisaboke&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
