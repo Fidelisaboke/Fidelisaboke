@@ -73,7 +73,7 @@ I'm a Computer Science student interested in Full-stack development.
 
 ## My GitHub Stats
 <p>
-  <a href="https://github.com/anuraghazra/github-readme-stats" width="42%">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="Fidel's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Fidelisaboke&theme=dracula" />
   </a>
   
