@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a Computer Science student interested in Full-stack development.
 
 *   ✉️  You can contact me at [fidelisaboke@gmail.com](mailto:fidelisaboke@gmail.com)
-*   🧠  I'm learning React, ML in Python, and Kotlin
+*   🧠  I'm learning React, Python, and Kotlin
 *   ⚡  Scratch is the best for learning programming from scratch
 
 ## Skills 
