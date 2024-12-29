@@ -5,7 +5,7 @@ I'm a Computer Science student interested in Full-stack development.
 
 *   ✉️  You can contact me at [fidelisaboke@gmail.com](mailto:fidelisaboke@gmail.com)
 *   🧠  I'm learning Laravel, Python, and Kotlin
-*   ⚡  Scratch is the best for learning programming from scratch
+*   ⚡  Scratch is the best for learning programming from scratch 😁
 
 ## Skills 
 <p align="left">
