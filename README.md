@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a Computer Science student interested in Full-stack development.
 
 *   ✉️  You can contact me at [fidelisaboke@gmail.com](mailto:fidelisaboke@gmail.com)
-*   🧠  I'm learning React, Python, and Kotlin
+*   🧠  I'm learning Laravel, Python, and Kotlin
 *   ⚡  Scratch is the best for learning programming from scratch
 
 ## Skills 
@@ -36,9 +36,11 @@ I'm a Computer Science student interested in Full-stack development.
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
   </a>
+  <!--
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
   </a>
+  -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
   </a>
