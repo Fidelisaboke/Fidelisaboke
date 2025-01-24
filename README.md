@@ -1,6 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fidel Isaboke
 =====================================================================================================================================
 [![wakatime](https://wakatime.com/badge/user/5fd7e93a-3dad-450d-91d6-7092d3c17137.svg)](https://wakatime.com/@5fd7e93a-3dad-450d-91d6-7092d3c17137)
+![Profile Views](https://komarev.com/ghpvc/?username=Fidelisaboke&color=blue)
 
 I'm a Computer Science student interested in Full-stack development and Data Science.
 
