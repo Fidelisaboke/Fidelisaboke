@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a Computer Science student interested in Full-stack development and Data Science.
 
 *   ✉️  You can contact me at [fidelisaboke@gmail.com](mailto:fidelisaboke@gmail.com)
-*   🧠  I'm learning Django and MongoDB
+*   🧠  I'm learning Django, React and MongoDB
 *   ⚡  Scratch is the best for learning programming from scratch 😁
 
 ## Skills 
@@ -35,11 +35,9 @@ I'm a Computer Science student interested in Full-stack development and Data Sci
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
   </a>
-  <!--
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
   </a>
-  -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
   </a>
@@ -87,11 +85,11 @@ I'm a Computer Science student interested in Full-stack development and Data Sci
 ## My GitHub Stats
 <p>
   <a href="https://github.com/Fidelisaboke/github-readme-stats">
-    <img alt="Fidel's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Fidelisaboke&theme=dracula" />
+    <img alt="Fidel's GitHub stats" src="https://github-readme-stats-git-main-fidelisabokes-projects.vercel.app/api?username=Fidelisaboke&theme=dracula" />
   </a>
   
   <a href="https://github.com/Fidelisaboke/github-readme-stats">
-    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fidelisaboke&layout=compact&theme=dracula" />
+    <img alt="Top Langs" src="https://github-readme-stats-git-main-fidelisabokes-projects.vercel.app/api/top-langs/?username=Fidelisaboke&layout=compact&theme=dracula" />
   </a>
 </p>
 
