@@ -86,11 +86,11 @@ I'm a Computer Science student interested in Full-stack development and Data Sci
 
 ## My GitHub Stats
 <p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/Fidelisaboke/github-readme-stats">
     <img alt="Fidel's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Fidelisaboke&theme=dracula" />
   </a>
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/Fidelisaboke/github-readme-stats">
     <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fidelisaboke&layout=compact&theme=dracula" />
   </a>
 </p>
