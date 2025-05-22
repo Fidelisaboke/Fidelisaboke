@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a Computer Science student interested in Full-stack development, Cybersecurity, and Data Science.
 
 *   ✉️  You can contact me at [fidelisaboke@gmail.com](mailto:fidelisaboke@gmail.com)
-*   🧠  I'm learning Django, React and MongoDB
+*   🧠  I'm learning Python for Data Science, and C++ for Competitive Programming
 *   ⚡  Scratch is the best for learning programming from scratch 😁
 
 ## Skills 
