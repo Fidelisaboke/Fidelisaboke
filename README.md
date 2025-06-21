@@ -3,11 +3,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 [![wakatime](https://wakatime.com/badge/user/5fd7e93a-3dad-450d-91d6-7092d3c17137.svg)](https://wakatime.com/@5fd7e93a-3dad-450d-91d6-7092d3c17137)
 ![Profile Views](https://komarev.com/ghpvc/?username=Fidelisaboke&color=blue)
 
-I'm a Computer Science student developing expertise in Full-stack development, Cybersecurity, and Data Science.
+_CS Student | Aspiring Data Scientist | ML & Cybersecurity Enthusiast_
 
-*   ✉️  You can contact me at [fidelisaboke@gmail.com](mailto:fidelisaboke@gmail.com)
-*   🧠  I'm learning Python for Data Science, and C++ for Competitive Programming
-*   ⚡  Scratch is the best for learning programming from scratch 😁
+### ⚡ Currently:
+- 📚 Learning Python for Data Science & C++ for Competitive Programming
+- 🚀 Building a robust Network Intrusion Detection System using adversarial defence techniques
+- 🧪 Exploring AI and cybersecurity projects
+
+### 📫 Contact Me
+- Email: [fidelisaboke@gmail.com](mailto:fidelisaboke@gmail.com)
+- LinkedIn: [@fidel-isaboke](https://www.linkedin.com/in/fidel-isaboke-57aba3263/)
 
 ## Skills 
 <p align="left">
@@ -90,21 +95,48 @@ I'm a Computer Science student developing expertise in Full-stack development, C
 
 ## My GitHub Stats
 <p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Fidel's GitHub stats" src="https://github-readme-stats-git-main-fidelisabokes-projects.vercel.app/api?username=Fidelisaboke&theme=dracula" />
+  <a href="http://github.com/Fidelisaboke">
+    <img src="https://github-readme-stats.vercel.app/api?username=Fidelisaboke&show_icons=true&count_private=true&theme=dracula" alt="Fidelisaboke's GitHub stats" />
   </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Top Langs" src="https://github-readme-stats-git-main-fidelisabokes-projects.vercel.app/api/top-langs/?username=Fidelisaboke&layout=compact&theme=dracula" />
+  <a href="https://github.com/Fidelisaboke" align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fidelisaboke&layout=compact&theme=dracula&locale=en&custom_title=Top%20%Languages&langs_count=8" alt="Top Languages" />
   </a>
 </p>
 
 <b>Top Repositories</b>
-<div width="100%" align="center">
-  <a href="https://github.com/Fidelisaboke/StrathPort" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Fidelisaboke&repo=StrathPort&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-  </a>
-</div>
-<br /><br /><br /><br /><br /><br /><br />
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Fidelisaboke/StrathPort">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Fidelisaboke&repo=StrathPort&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Fidelisaboke/AidSync">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Fidelisaboke&repo=AidSync&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Fidelisaboke/Cannon-Frenzy">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Fidelisaboke&repo=Cannon-Frenzy&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Fidelisaboke/gemini-chatbot">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Fidelisaboke&repo=gemini-chatbot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-## DevCard
-<a href="https://app.daily.dev/fidelisaboke"><img src="./devcard.png" width="356" alt="Fidel Isaboke's Dev Card"/></a>
+<br />
+
+
+<!-- ## DevCard
+<p align="left">
+  <a href="https://app.daily.dev/fidelisaboke">
+    <img src="./devcard.png" width="356" alt="Fidel Isaboke's Dev Card"/>
+  </a>
+</p> -->
