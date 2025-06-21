@@ -125,7 +125,7 @@ _CS Student | Aspiring Data Scientist | ML & Cybersecurity Enthusiast_
     </td>
     <td>
       <a href="https://github.com/Fidelisaboke/gemini-chatbot">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Fidelisaboke&repo=gemini-chatbot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Fidelisaboke&repo=food-security-analysis&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
       </a>
     </td>
   </tr>
