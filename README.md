@@ -14,7 +14,7 @@ _CS Student | Aspiring Data Scientist | ML & Cybersecurity Enthusiast_
 - Email: [fidelisaboke@gmail.com](mailto:fidelisaboke@gmail.com)
 - LinkedIn: [@fidel-isaboke](https://www.linkedin.com/in/fidel-isaboke-57aba3263/)
 
-## Skills 
+## 🛠️ Languages & Tools
 <div align="left">
   <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
@@ -112,7 +112,7 @@ _CS Student | Aspiring Data Scientist | ML & Cybersecurity Enthusiast_
       </a>
 </p>
 
-## My GitHub Stats
+## 📊 My GitHub Stats
 <p>
   <a href="http://github.com/Fidelisaboke">
     <img src="https://github-readme-stats.vercel.app/api?username=Fidelisaboke&show_icons=true&count_private=true&theme=dracula" alt="Fidelisaboke's GitHub stats" />
@@ -122,7 +122,7 @@ _CS Student | Aspiring Data Scientist | ML & Cybersecurity Enthusiast_
   </a>
 </p>
 
-### Top Repositories
+### 📈 Top Repositories
 <table>
   <tr>
     <td>
