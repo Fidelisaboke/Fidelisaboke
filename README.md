@@ -15,65 +15,84 @@ _CS Student | Aspiring Data Scientist | ML & Cybersecurity Enthusiast_
 - LinkedIn: [@fidel-isaboke](https://www.linkedin.com/in/fidel-isaboke-57aba3263/)
 
 ## Skills 
-<p align="left">
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" title="C++"/>
+<div align="left">
+  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   </a>
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
+  <img width="12" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+  <img width="12" />
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
   </a>
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" />
+  <img width="12" />
+  <a href="https://isocpp.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
   </a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />
+  <img width="12" />
+  <a href="https://www.php.net/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" />
   </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+  <img width="12" />
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo" />
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
+  <img width="12" />
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+  <img width="12" />
+  <a href="https://laravel.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo" />
   </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
+  <img width="12" />
+  <a href="https://react.dev/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
   </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
+  <img width="12" />
+  <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
+  <img width="12" />
+  <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
   </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" />
+  <img width="12" />
+  <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
   </a>
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
+  <img width="12" />
+  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
   </a>
-  <a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" />
+  <img width="12" />
+  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
   </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" />
+  <img width="12" />
+  <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
   </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" />
+  <img width="12" />
+  <a href="https://vercel.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo" />
   </a>
-  <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask.svg" width="36" height="36" alt="Flask" title="Flask"/>
+  <img width="12" />
+  <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" />
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="Mongo DB" />
+  <img width="12" />
+  <a href="https://www.arduino.cc/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo" />
   </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
+  <img width="12" />
+  <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
   </a>
-</p>
+</div>
+
                     
 ## Socials          
 <p align="left">
@@ -103,7 +122,7 @@ _CS Student | Aspiring Data Scientist | ML & Cybersecurity Enthusiast_
   </a>
 </p>
 
-<b>Top Repositories</b>
+### Top Repositories
 <table>
   <tr>
     <td>
@@ -133,6 +152,15 @@ _CS Student | Aspiring Data Scientist | ML & Cybersecurity Enthusiast_
 
 <br />
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fidelisaboke/Fidelisaboke/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fidelisaboke/Fidelisaboke/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Fidelisaboke/Fidelisaboke/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 <!-- ## DevCard
 <p align="left">
