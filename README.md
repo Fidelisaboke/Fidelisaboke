@@ -94,7 +94,7 @@ _CS Student | Aspiring Data Scientist | ML & Cybersecurity Enthusiast_
 </div>
 
                     
-## Socials          
+## 🔗 Socials          
 <p align="left">
       <a href="https://www.github.com/Fidelisaboke" target="_blank" rel="noreferrer">
       <picture>
@@ -112,7 +112,7 @@ _CS Student | Aspiring Data Scientist | ML & Cybersecurity Enthusiast_
       </a>
 </p>
 
-## 📊 My GitHub Stats
+## 🔥 My GitHub Stats
 <p>
   <a href="http://github.com/Fidelisaboke">
     <img src="https://github-readme-stats.vercel.app/api?username=Fidelisaboke&show_icons=true&count_private=true&theme=dracula" alt="Fidelisaboke's GitHub stats" />
@@ -122,7 +122,7 @@ _CS Student | Aspiring Data Scientist | ML & Cybersecurity Enthusiast_
   </a>
 </p>
 
-### 📈 Top Repositories
+### 🚀 Top Repositories
 <table>
   <tr>
     <td>
