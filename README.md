@@ -40,6 +40,14 @@ _CS Student | Aspiring Data Scientist | ML & Cybersecurity Enthusiast_
     <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo" />
   </a>
   <img width="12" />
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  </a>
+  <img width="12" />
+  <a href="https://numpy.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  </a>
+  <img width="12" />
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo" />
   </a>
