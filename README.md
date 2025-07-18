@@ -36,6 +36,10 @@ _CS Student | Aspiring Data Scientist | ML & Cybersecurity Enthusiast_
     <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" />
   </a>
   <img width="12" />
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo" />
+  </a>
+  <img width="12" />
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo" />
   </a>
