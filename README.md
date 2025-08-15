@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 [![wakatime](https://wakatime.com/badge/user/5fd7e93a-3dad-450d-91d6-7092d3c17137.svg)](https://wakatime.com/@5fd7e93a-3dad-450d-91d6-7092d3c17137)
 ![Profile Views](https://komarev.com/ghpvc/?username=Fidelisaboke&color=blue)
 
-_CS Student | Aspiring Data Scientist | ML & Cybersecurity Enthusiast_
+_CS Student | Full-Stack Developer | Aspiring Data Scientist | ML & Cybersecurity Enthusiast_
 
 ### ⚡ Currently:
 - 📚 Learning Python for Data Science & C++ for Competitive Programming
