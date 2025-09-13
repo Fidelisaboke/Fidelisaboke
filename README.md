@@ -155,8 +155,8 @@ _CS Student | Full-Stack Developer | Aspiring Data Scientist | ML & Cybersecurit
       </a>
     </td>
     <td>
-      <a href="https://github.com/Fidelisaboke/african-culinary-chatbot">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Fidelisaboke&repo=african-culinary-chatbot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+      <a href="https://github.com/Fidelisaboke/youtube-rag-chat">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Fidelisaboke&repo=youtube-rag-chat&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
       </a>
     </td>
   </tr>
