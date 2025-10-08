@@ -3,6 +3,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 [![wakatime](https://wakatime.com/badge/user/5fd7e93a-3dad-450d-91d6-7092d3c17137.svg)](https://wakatime.com/@5fd7e93a-3dad-450d-91d6-7092d3c17137)
 ![Profile Views](https://komarev.com/ghpvc/?username=Fidelisaboke&color=blue)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=00FFB9&center=true&vCenter=true&width=435&lines=CS+Student+%7C+Full-stack+Developer;Building+Resilient+AI+Systems;Exploring+Tech+Worlds)](https://git.io/typing-svg)
+
+
 _CS Student | Full-Stack Developer | Aspiring Data Scientist | ML & Cybersecurity Enthusiast_
 
 ### ⚡ Currently:
