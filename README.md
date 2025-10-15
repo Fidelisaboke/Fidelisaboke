@@ -179,8 +179,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## 🌐 Hacktoberfest 2025
 <p align="left">
-  <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/ca6a63d7-3f6b-43e9-bbb3-b1fa9cd6226c" />
-  <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/f5088406-73aa-4070-87d1-9b660fcc07c0" />
+  <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/ca6a63d7-3f6b-43e9-bbb3-b1fa9cd6226c" />
+  <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/f5088406-73aa-4070-87d1-9b660fcc07c0" />
 </p>
 
 <!-- ## DevCard
