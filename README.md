@@ -178,13 +178,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ###
 
 ## 🌐 Hacktoberfest 2025
-<p align="left">
-  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/ca6a63d7-3f6b-43e9-bbb3-b1fa9cd6226c" />
-  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/f5088406-73aa-4070-87d1-9b660fcc07c0" />
-  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/9821b9bf-8a34-4eab-94b7-5518ca1ecab0" />
-  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/25aac534-dec5-40d1-ae52-711195e6e3d0" />
-  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/9c4c6634-7fe2-4daa-ac1f-ce73c86c9299" />
-  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/fce7fc7b-0e66-4003-9df5-1c75b7aea838" />
+<p align="left" width="100%">
+  <img width="16%" height="16%" alt="image" src="https://github.com/user-attachments/assets/ca6a63d7-3f6b-43e9-bbb3-b1fa9cd6226c" />
+  <img width="16%" height="16%" alt="image" src="https://github.com/user-attachments/assets/f5088406-73aa-4070-87d1-9b660fcc07c0" />
+  <img width="16%" height="16%" alt="image" src="https://github.com/user-attachments/assets/9821b9bf-8a34-4eab-94b7-5518ca1ecab0" />
+  <img width="16%" height="16%" alt="image" src="https://github.com/user-attachments/assets/25aac534-dec5-40d1-ae52-711195e6e3d0" />
+  <img width="16%" height="16%" alt="image" src="https://github.com/user-attachments/assets/9c4c6634-7fe2-4daa-ac1f-ce73c86c9299" />
+  <img width="16%" height="16%" alt="image" src="https://github.com/user-attachments/assets/fce7fc7b-0e66-4003-9df5-1c75b7aea838" />
 </p>
 
 <!-- ## DevCard
