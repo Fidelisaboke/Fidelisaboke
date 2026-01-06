@@ -9,8 +9,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <!--_CS Student | Full-Stack Developer | Aspiring Data Scientist | ML & Cybersecurity Enthusiast_-->
 
 ### ⚡ Currently:
-- 📚 Learning Python for Data Science & C++ for Competitive Programming
-- 🚀 Building a robust Network Intrusion Detection System using adversarial defence techniques
+- 📚 Learning Python for Data Science
+- 🚀 Building an AI-powered slides generator
 - 🧪 Exploring AI and cybersecurity projects
 
 ### 📫 Contact Me
