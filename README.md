@@ -20,7 +20,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### 📫 Contact Me
 - Email: [fidelisaboke@gmail.com](mailto:fidelisaboke@gmail.com)
 - LinkedIn: [@fidel-isaboke](https://www.linkedin.com/in/fidel-isaboke-57aba3263/)
-- Portfolio [fidelisaboke.github.io](https://fidelisaboke.github.io)
+- Portfolio: [fidelisaboke.github.io](https://fidelisaboke.github.io)
 
 ## 🛠️ Languages & Tools
 <div align="left">
