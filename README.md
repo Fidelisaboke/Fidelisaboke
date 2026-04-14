@@ -1,9 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fidel Isaboke
 =====================================================================================================================================
+
+<div align="center">
+  <a href="https://fidelisaboke.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-A78BFA?style=for-the-badge&logo=google-chrome&logoColor=5EEAD4" alt="Portfolio Badge" />
+  </a>
+</div>
+
 [![wakatime](https://wakatime.com/badge/user/5fd7e93a-3dad-450d-91d6-7092d3c17137.svg)](https://wakatime.com/@5fd7e93a-3dad-450d-91d6-7092d3c17137)
 ![Profile Views](https://komarev.com/ghpvc/?username=Fidelisaboke&color=blue)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=00FFB9&center=true&vCenter=true&width=435&lines=CS+Student+%7C+Full-stack+Developer;Aspiring+Data+Scientist;Exploring+tech+trends)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=5EEAD4&center=true&vCenter=true&width=435&lines=CS+Student+%7C+Full-stack+Developer;Aspiring+Data+Scientist;Exploring+tech+trends)](https://git.io/typing-svg)
 
 
 <!--_CS Student | Full-Stack Developer | Aspiring Data Scientist | ML & Cybersecurity Enthusiast_-->
@@ -60,6 +67,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo" />
   </a>
   <img width="12" />
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo" />
+  </a>
+  <img width="12" />
   <a href="https://laravel.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo" />
   </a>
@@ -74,6 +85,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <img width="12" />
   <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
+  </a>
+  <img width="12" />
+  <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" />
   </a>
   <img width="12" />
   <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
