@@ -1,14 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fidel Isaboke
 =====================================================================================================================================
 
-<div align="center">
-  <a href="https://fidelisaboke.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-A78BFA?style=for-the-badge&logo=google-chrome&logoColor=5EEAD4" alt="Portfolio Badge" />
-  </a>
-</div>
-
 [![wakatime](https://wakatime.com/badge/user/5fd7e93a-3dad-450d-91d6-7092d3c17137.svg)](https://wakatime.com/@5fd7e93a-3dad-450d-91d6-7092d3c17137)
 ![Profile Views](https://komarev.com/ghpvc/?username=Fidelisaboke&color=blue)
+<a href="https://fidelisaboke.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-A78BFA?style=for-the-badge&logo=google-chrome&logoColor=5EEAD4" alt="Portfolio Badge" />
+</a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=5EEAD4&center=true&vCenter=true&width=435&lines=CS+Student+%7C+Full-stack+Developer;Aspiring+Data+Scientist;Exploring+tech+trends)](https://git.io/typing-svg)
 
