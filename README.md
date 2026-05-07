@@ -35,10 +35,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
   </a>
-  <img width="12" />
+  <!-- <img width="12" />
   <a href="https://isocpp.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  </a>
+  </a> -->
   <img width="12" />
   <a href="https://www.php.net/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" />
