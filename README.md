@@ -10,10 +10,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=5EEAD4&center=true&vCenter=true&width=435&lines=CS+Student+%7C+Full-stack+Developer;Aspiring+Data+Scientist;Exploring+tech+trends)](https://git.io/typing-svg)
 
 
-<!--_CS Student | Full-Stack Developer | Aspiring Data Scientist | ML & Cybersecurity Enthusiast_-->
+<!-- _Full-Stack Developer | Developing Agentic Systems | ML & Cybersecurity Enthusiast_-->
 
 ### ⚡ Currently:
-- 📚 Learning Python for Data Science
+- 📚 Learning Agentic Engineering
 - 🚀 Building an AI-powered slides generator
 - 🧪 Exploring AI and cybersecurity projects
 
