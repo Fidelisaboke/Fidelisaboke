@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-A78BFA?style=for-the-badge&logo=google-chrome&logoColor=5EEAD4" alt="Portfolio Badge" />
 </a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=5EEAD4&center=true&vCenter=true&width=435&lines=CS+Student+%7C+Full-stack+Developer;Aspiring+Data+Scientist;Exploring+tech+trends)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=5EEAD4&center=true&vCenter=true&width=435&lines=Full-stack+Developer;Developing+Agentic+Systems;Exploring+tech+trends)](https://git.io/typing-svg)
 
 
 <!-- _Full-Stack Developer | Developing Agentic Systems | ML & Cybersecurity Enthusiast_-->
