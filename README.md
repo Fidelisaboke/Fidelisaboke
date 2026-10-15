@@ -121,6 +121,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   </a>
 </div>
 
+
+## 🤖 AI Coding Agents
+
+I work with AI coding agents for scaffolding, refactors and code reviews. I read and own every line that ships.
+
+<p align="left"> <a href="https://claude.com/claude-code"><img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" /></a> <a href="https://opencode.ai"><img src="https://img.shields.io/badge/OpenCode-211E1E?style=for-the-badge&logo=terminal&logoColor=white" alt="OpenCode" /></a> <a href="https://antigravity.google"><img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" /></a> </p>
+
                     
 ## 🔗 Socials          
 <p align="left">
