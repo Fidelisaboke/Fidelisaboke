@@ -12,7 +12,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <!-- _Full-Stack Developer | Developing Agentic Systems | ML & Cybersecurity Enthusiast_-->
 
 ### ⚡ Currently:
-- 📚 Diving deep into Agentic Engineering and orchestration of agents in software development
+- 📚 Diving deep into Agentic Engineering
 - 🚀 Building an AI-powered solutions
 - 🧪 Exploring AI and cybersecurity projects
 
