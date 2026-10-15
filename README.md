@@ -9,8 +9,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=5EEAD4&center=true&vCenter=true&width=435&lines=Full-stack+Developer;Developing+Agentic+Systems;Exploring+tech+trends)](https://git.io/typing-svg)
 
-![Getting it Done](https://media1.tenor.com/m/iCqG_iT-h48AAAAd/bills-ugh.gif)
-
 <!-- _Full-Stack Developer | Developing Agentic Systems | ML & Cybersecurity Enthusiast_-->
 
 ### ⚡ Currently:
@@ -203,3 +201,7 @@ I work with AI coding agents for scaffolding, refactors and code reviews. I read
 ## 🌟 Holopin Badges
 [![An image of @fidelisaboke's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/fidelisaboke)](https://holopin.io/@fidelisaboke)
 -->
+
+## Getting it Done!
+![Getting it Done](https://media1.tenor.com/m/iCqG_iT-h48AAAAd/bills-ugh.gif)
+
