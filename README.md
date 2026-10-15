@@ -191,6 +191,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ###
 
+<!--
 ## 🌟 Holopin Badges
 [![An image of @fidelisaboke's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/fidelisaboke)](https://holopin.io/@fidelisaboke)
-
+-->
