@@ -22,7 +22,24 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - Portfolio: [fidelisaboke.github.io](https://fidelisaboke.github.io)
 
 ## 🛠️ Languages & Tools
-<div align="left">
+**Frontend**<br />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind" alt="frontend" />
+
+**Backend & Databases**<br />
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,nodejs,express,php,laravel,postgres,mysql,mongodb" alt="backend" />
+
+**AI & Data**<br />
+<img src="https://skillicons.dev/icons?i=tensorflow" alt="ai and data" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+
+**DevOps & Tools**<br />
+<img src="https://skillicons.dev/icons?i=git,docker,linux,vercel,postman" alt="tools" />
+
+<!-- <div align="left">
   <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   </a>
@@ -34,10 +51,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
   </a>
-  <!-- <img width="12" />
+  <img width="12" />
   <a href="https://isocpp.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  </a> -->
+  </a>
   <img width="12" />
   <a href="https://www.php.net/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" />
@@ -118,7 +135,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
   </a>
-</div>
+</div> -->
 
 
 ## 🤖 AI Coding Agents
